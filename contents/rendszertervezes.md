@@ -20,7 +20,7 @@ Az idő folyamán szakemebereink sok rendszer tervezésében résztvettek, sok r
 Sokféle típusú architektúra terv készíthető. Ezek közül - az üzleti alkalmazások esetén -, a szoftver architektúra és a telepítési architektúra terveket szoktuk kidolgozni. Ezek elkészítése iterációk folyamán történik, ahol folyamatosan egyeztetünk a szereplőkkel. Az architektúra tervekben mintákat (patterns) használunk, amelyek a rendszertervezés szokásain és szabványain alapulnak, valamint publikusan elérhetőek.
 
 ### Tervezési szempontok
-A tervezési szempontok sokrétűek. Alapvetően az üzleti logika és elvárásai mentés készülnek a tervek. Néhány egyéb tervezési szempont:
+A tervezési szempontok sokrétűek. Alapvetően az üzleti logika és elvárásai mentén készülnek a tervek. Néhány egyéb tervezési szempont:
 
 * teljesítmény
 * rendelkezésre állás
