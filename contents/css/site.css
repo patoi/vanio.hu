@@ -51,3 +51,9 @@
 ul {
     list-style-type: square;
 }
+
+.vaniologo {
+  color: #65a0dc;
+  font-size: 100px;
+  font-family: 'Ubuntu', sans-serif;
+}
