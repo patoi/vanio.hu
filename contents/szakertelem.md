@@ -10,7 +10,7 @@ template: layout.jade
 
 ### Szakértelem
 
-A szakértelmet nem megszerezni kell, hanem fenntartani. Mit jelent ma az, ha valakinek 10 éves lexikális informatikai tudása van? Egy modern környezetben szinte semmit. Egy modern üzleti környezetben az elmúlt 3-4 év lexikális tudása szükséges. Természetesen a tapasztalat fontos tényező, a nem lexikális tudás is jelentősen hozzájárul a sikerhez. 
+**A szakértelmet nem megszerezni kell, hanem fenntartani.** Mit jelent ma az, ha valakinek 10 éves lexikális informatikai tudása van? Egy modern környezetben szinte semmit. Egy modern üzleti környezetben az elmúlt 3-4 év lexikális tudása szükséges. Természetesen a tapasztalat fontos tényező, a nem lexikális tudás is jelentősen hozzájárul a sikerhez.
 
 ### Emberközpontúság
 
@@ -27,4 +27,4 @@ Az előzőekhez igazodva választottunk módszert a fejlesztéseinkhez. Sok mód
 * automatikus tesztek
 * információ radiátor rendszerek
 
-A megfelelő fejlesztési módszerek megfelelő használata (nem túl használata) együttesen eredményezi a kiegyensúlyozott, fenntartható fejlesztést, aminek eredménye a stresszmentesen elért határidő, alacsonyabb költség és jobb minőség.
+A megfelelő fejlesztési módszerek megfelelő használata (nem túl használata) együttesen eredményezi a **kiegyensúlyozott, fenntartható fejlesztést, aminek eredménye a stresszmentesen elért határidő, alacsonyabb költség és jobb minőség.**

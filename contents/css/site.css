@@ -57,3 +57,8 @@ ul {
   font-size: 100px;
   font-family: 'Ubuntu', sans-serif;
 }
+
+strong {
+  font-weight: bold;
+  color: black;
+}
