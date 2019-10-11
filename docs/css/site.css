@@ -1,0 +1,64 @@
+@charset 'UTF-8';
+
+.text {
+  color: #333;
+  font-weight: 600;
+  font-size: 22px;
+  font-family: 'Open Sans', sans-serif;
+  text-align: left;
+}
+.text h3 {
+  color: rgb(223, 48, 52);
+}
+
+.state {
+  background-color: rgb(223, 48, 52);
+  color: white;
+  text-transform: uppercase;
+  font-weight: 600;
+  font-size: 18px;
+  font-family: 'Open Sans', sans-serif;
+  padding: 4px;
+}
+.date {
+  font-weight: 600;
+  font-size: 18px;
+  font-family: 'Open Sans', sans-serif;
+  padding: 4px;
+}
+
+.logo {
+  color: #CCC;
+  font-weight: 600;
+  font-size: 30px;
+  font-family: 'Open Sans', sans-serif;
+  padding: 4px;
+}
+
+.guides ul li {
+  width: 100%;
+  border-bottom: 1px solid #CCC;
+  padding-bottom: 5px;
+}
+.guides ul li a {
+  display: inline-block;
+  width: 40%;
+}
+.guides ul li code {
+  display: inline-block;
+}
+
+ul {
+    list-style-type: square;
+}
+
+.vaniologo {
+  color: #65a0dc;
+  font-size: 100px;
+  font-family: 'Ubuntu', sans-serif;
+}
+
+strong {
+  font-weight: bold;
+  color: black;
+}

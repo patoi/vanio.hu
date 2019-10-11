@@ -5,7 +5,7 @@ preface: Cégünk emberközpontú. Tudjuk, hogy csak az ember képes megoldani a
 author: Pató István <istvan.pato@vanio.com>
 date: 2013-05-13 08:53
 state: ALFA
-template: layout.jade
+template: layout.pug
 ---
 
 ### Szakértelem

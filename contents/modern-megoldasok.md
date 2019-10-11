@@ -5,7 +5,7 @@ preface: Rendszereink fejlesztését a legmodernebb eszközökkel végezzük. Eh
 author: Pató István <istvan.pato@vanio.com>
 date: 2013-05-13 08:53
 state: ALFA
-template: layout.jade
+template: layout.pug
 ---
 
 ### Modern megoldások
