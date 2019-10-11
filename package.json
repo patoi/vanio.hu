@@ -1,0 +1,28 @@
+{
+  "name": "vanio.hu",
+  "version": "1.0.0",
+  "description": "vanio.hu weboldal",
+  "scripts": {
+    "build": "wintersmith build",
+    "start": "wintersmith preview",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/patoi/vanio.hu.git"
+  },
+  "keywords": [
+    "vanio",
+    "vanio.hu",
+    "weboldal"
+  ],
+  "author": "Istvan Pato <istvan.pato@gmail.com>",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/patoi/vanio.hu/issues"
+  },
+  "homepage": "https://github.com/patoi/vanio.hu#readme",
+  "devDependencies": {
+    "wintersmith": "^2.5.0"
+  }
+}
