@@ -2,13 +2,13 @@
 
 .text {
   color: #333;
-  font-weight: 600;
-  font-size: 22px;
+  font-weight: 300;
+  font-size: 18px;
   font-family: 'Open Sans', sans-serif;
   text-align: left;
 }
 .text h3 {
-  color: rgb(223, 48, 52);
+  color: #65a0dc;
 }
 
 .state {
@@ -28,10 +28,10 @@
 }
 
 .logo {
-  color: #CCC;
-  font-weight: 600;
-  font-size: 30px;
-  font-family: 'Open Sans', sans-serif;
+  color: white;
+  font-weight: 300;
+  font-size: 22px;
+  font-family: 'Ubuntu', sans-serif;
   padding: 4px;
 }
 
@@ -50,6 +50,7 @@
 
 ul {
     list-style-type: square;
+    margin-left: 1.5em;
 }
 
 .vaniologo {
@@ -61,4 +62,5 @@ ul {
 strong {
   font-weight: bold;
   color: black;
+  color: #65a0dc;
 }

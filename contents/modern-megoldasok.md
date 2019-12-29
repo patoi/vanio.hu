@@ -17,4 +17,4 @@ Vélhetően ahány embert megkérdezünk, annyi választ kapunk a kérdésre. Sz
 
 ### Gyorsabb kivitelezés, olcsóbb rendszer
 
-Ha kalapácsod van, akkor minden szög - tartja a mondás. **Cégünk széles spektrumon nyújt megoldásokat, így az adott feladathoz választjuk az eszközt és megoldást,** nem pedig mindig ugyanazt erőltetjük. Kerüljük a "eszköz túlhasználatot", és előnyben részesítjük a személyes egyeztetéseket. Ennek eredménye a **gyorsabb** munka, **jobb** minőség, és **olcsóbb** rendszer.
+"Ha kalapácsod van, akkor minden szög" – tartja a mondás. **Cégünk széles spektrumon nyújt megoldásokat, így az adott feladathoz választjuk az eszközt és megoldást,** nem pedig mindig ugyanazt erőltetjük. Kerüljük a "eszköz túlhasználatot", és előnyben részesítjük a személyes egyeztetéseket. Ennek eredménye a **gyorsabb** munka, **jobb** minőség, és **olcsóbb** rendszer.
